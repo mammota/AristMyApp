@@ -2,8 +2,6 @@
 #include <OneWire.h>
 #include <GyverNTC.h>
 
-// #include <DallasTemperature.h>
-
 #define compr  5    // реле компрессора
 #define fanPin  6    // пин вентилятора
 #define releKN  7    // Электромагнит
